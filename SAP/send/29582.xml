@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<OB>
+	<CLIENT>
+		<BOM>
+			<BO>
+			<AdmInfo>
+				<Object>2</Object>
+				<Version>2</Version>
+			</AdmInfo>
+			<BusinessPartners>
+				<row>
+					<CardType>cCustomer</CardType>
+					<CardCode>0000026064INTFR</CardCode>
+					<CardName>Irina Alexandrache</CardName>
+					<GroupCode>100</GroupCode>
+					<Phone1>0772035731</Phone1>
+					<Fax/>
+					<Cellular/>
+					<EmailAddress>irinacica@yahoo.com</EmailAddress>
+					<FederalTaxID/>
+					<LanguageCode>3</LanguageCode>
+					<U_OB1TYPETOTAL>DDP</U_OB1TYPETOTAL>
+					<VatLiable>vLiable</VatLiable>
+					<VatGroup>C6</VatGroup>
+					<ContactPerson>Irina</ContactPerson>
+					<PayTermsGrpCode>131</PayTermsGrpCode>
+				</row>
+			</BusinessPartners>
+			<ContactEmployees>
+				<row>
+					<Name>Irina</Name>
+					<FirstName>Alexandrache</FirstName>
+					<Phone1>772035731</Phone1>
+					<Fax>772035731</Fax>
+					<MobilePhone/>
+					<E_Mail>irinacica@yahoo.com</E_Mail>
+				</row>
+			</ContactEmployees>
+			<BPAddresses>
+				<row>
+					<AddressType>bo_ShipTo</AddressType>
+					<AddressName>Irina Alexandrache</AddressName>
+					<Street>Cal.Unirii  nr 8 bl1.sc1 et 2 ap 4</Street>
+					<Block/>
+					<ZipCode>200419</ZipCode>
+					<City>Craiova</City>
+					<State/>
+					<BuildingFloorRoom>772035731</BuildingFloorRoom>
+					<Country>RO</Country>
+				</row>
+				<row>
+					<AddressType>bo_BillTo</AddressType>
+					<AddressName>Irina Alexandrache</AddressName>
+					<Street>Cal.Unirii nr 8  bl1.sc1 et 2 ap 4</Street>
+					<Block/>
+					<ZipCode>200419</ZipCode>
+					<City>Craiova</City>
+					<State/>
+					<BuildingFloorRoom>0772035731</BuildingFloorRoom>
+					<Country>RO</Country>
+				</row>
+			</BPAddresses>
+			</BO>
+		</BOM>
+	</CLIENT>
+	<COMMANDE>
+		<BOM>
+			<BO>
+			<AdmInfo>
+				<Object>17</Object>
+				<Version>2</Version>
+			</AdmInfo>
+			<Documents>
+				<row>
+					<DocType>dDocument_Items</DocType>
+					<DocDate>20170904</DocDate>
+					<DocDueDate>20170904</DocDueDate>
+					<CardCode>0000026064INTFR</CardCode>
+					<NumAtCard>29582</NumAtCard>
+					<ShipToCode>Irina Alexandrache</ShipToCode>
+					<PayToCode>Irina Alexandrache</PayToCode>
+					<U_OB1CODELANGUE>3</U_OB1CODELANGUE>
+					<U_OB1TYPETOTAL>DDP</U_OB1TYPETOTAL>
+					<U_OB1REMARKPACK>Paiement : Carte bancaire || Livraison : Colissimo International Zone 5 1.601-2.5 kg</U_OB1REMARKPACK>
+					<PaymentGroupCode>131</PaymentGroupCode>
+					<U_OB1TRANSP>2</U_OB1TRANSP>
+				</row>
+			</Documents>
+			<Document_Lines>
+				<row>
+					<ItemCode>FLE047 - 15g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>8.61</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE024 - 15g</ItemCode>
+					<Quantity>2</Quantity>
+					<UnitPrice>4.94</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE126 - 15g</ItemCode>
+					<Quantity>4</Quantity>
+					<UnitPrice>10.5</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE022 - 15g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>3.68</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE028 - 15g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>6.51</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE155 - 15g</ItemCode>
+					<Quantity>5</Quantity>
+					<UnitPrice>20.48</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE058 - 15g</ItemCode>
+					<Quantity>5</Quantity>
+					<UnitPrice>9.14</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE073 - 15g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>9.98</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE055 - 15g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>5.46</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE093 - 5g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>8.61</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE074 - 15g</ItemCode>
+					<Quantity>2</Quantity>
+					<UnitPrice>4.41</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE031 - 5g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>7.67</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE095 - 5g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>6.93</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLJ052 - 5g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>26.25</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE060 - 5g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>4.62</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE024 - 15g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>4.94</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE101 - 15g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>17.43</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE053 - 15g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>11.03</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE098 - 5g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>3.99</UnitPrice>
+				</row>
+			</Document_Lines>
+			<DocumentsAdditionalExpenses>
+				<row>
+					<ExpenseCode>3</ExpenseCode>
+					<LineTotal>14.7</LineTotal>
+				</row>
+			</DocumentsAdditionalExpenses>
+			</BO>
+		</BOM>
+	</COMMANDE>
+</OB>

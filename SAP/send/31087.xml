@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<OB>
+	<CLIENT>
+		<BOM>
+			<BO>
+			<AdmInfo>
+				<Object>2</Object>
+				<Version>2</Version>
+			</AdmInfo>
+			<BusinessPartners>
+				<row>
+					<CardType>cCustomer</CardType>
+					<CardCode>0000013436INTFR</CardCode>
+					<CardName>Bortolotti Fabrizio</CardName>
+					<GroupCode>100</GroupCode>
+					<Phone1>+39 0432913587</Phone1>
+					<Fax>+39 0432913587</Fax>
+					<Cellular>39 3403333069</Cellular>
+					<EmailAddress>info@volodifiori.it</EmailAddress>
+					<FederalTaxID>IT02610950301</FederalTaxID>
+					<LanguageCode>22</LanguageCode>
+					<U_OB1TYPETOTAL>HT</U_OB1TYPETOTAL>
+					<VatLiable>vEC</VatLiable>
+					<VatGroup>E7</VatGroup>
+					<ContactPerson>Bortolotti</ContactPerson>
+				</row>
+			</BusinessPartners>
+			<ContactEmployees>
+				<row>
+					<Name>Bortolotti</Name>
+					<FirstName>Fabrizio</FirstName>
+					<Phone1>39 0432913587</Phone1>
+					<Fax/>
+					<MobilePhone/>
+					<E_Mail>info@volodifiori.it</E_Mail>
+				</row>
+			</ContactEmployees>
+			<BPAddresses>
+				<row>
+					<AddressType>bo_ShipTo</AddressType>
+					<AddressName>Bortolotti Fabrizio</AddressName>
+					<AddressName3> - Volo di Fiori di</AddressName3>
+					<Street>Vicolo Resia 14</Street>
+					<Block/>
+					<ZipCode>33033</ZipCode>
+					<City>Codroipo</City>
+					<State/>
+					<BuildingFloorRoom>+39 0432913587</BuildingFloorRoom>
+					<Country>IT</Country>
+				</row>
+				<row>
+					<AddressType>bo_BillTo</AddressType>
+					<AddressName>Bortolotti Fabrizio</AddressName>
+					<AddressName3> - Volo di Fiori di</AddressName3>
+					<Street>Vicolo Resia 14</Street>
+					<Block/>
+					<ZipCode>33033</ZipCode>
+					<City>Codroipo</City>
+					<State/>
+					<BuildingFloorRoom>+39 0432913587</BuildingFloorRoom>
+					<Country>IT</Country>
+				</row>
+			</BPAddresses>
+			</BO>
+		</BOM>
+	</CLIENT>
+	<COMMANDE>
+		<BOM>
+			<BO>
+			<AdmInfo>
+				<Object>17</Object>
+				<Version>2</Version>
+			</AdmInfo>
+			<Documents>
+				<row>
+					<DocType>dDocument_Items</DocType>
+					<DocDate>20171108</DocDate>
+					<DocDueDate>20171108</DocDueDate>
+					<CardCode>0000013436INTFR</CardCode>
+					<NumAtCard>31087</NumAtCard>
+					<ShipToCode>Bortolotti Fabrizio</ShipToCode>
+					<PayToCode>Bortolotti Fabrizio</PayToCode>
+					<U_OB1CODELANGUE>22</U_OB1CODELANGUE>
+					<U_OB1TYPETOTAL>HT</U_OB1TYPETOTAL>
+					<U_OB1REMARKPACK>Paiement : Devis || Livraison : Devis</U_OB1REMARKPACK>
+					<PaymentGroupCode>131</PaymentGroupCode>
+					<U_OB1TRANSP>1</U_OB1TRANSP>
+				</row>
+			</Documents>
+			<Document_Lines>
+				<row>
+					<ItemCode>FLE064 - 5g</ItemCode>
+					<Quantity>4</Quantity>
+					<UnitPrice>2.84</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE009 - 15g</ItemCode>
+					<Quantity>2</Quantity>
+					<UnitPrice>9.77</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE013 - 15g</ItemCode>
+					<Quantity>5</Quantity>
+					<UnitPrice>5.52</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE022 - 15g</ItemCode>
+					<Quantity>2</Quantity>
+					<UnitPrice>3.68</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE028 - 15g</ItemCode>
+					<Quantity>2</Quantity>
+					<UnitPrice>6.51</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE035 - 15g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>4.62</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE036 - 15g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>6.3</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE155 - 5g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>9.09</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE047 - 15g</ItemCode>
+					<Quantity>8</Quantity>
+					<UnitPrice>8.61</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE046 - 15g</ItemCode>
+					<Quantity>5</Quantity>
+					<UnitPrice>6.51</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLJ164 - 15g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>11.97</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLJ052 - 5g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>26.25</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE024 - 15g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>4.94</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE146 - 15g</ItemCode>
+					<Quantity>10</Quantity>
+					<UnitPrice>5.57</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE052 - 5g</ItemCode>
+					<Quantity>12</Quantity>
+					<UnitPrice>4.73</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE058 - 15g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>9.14</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE133 - 5g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>7.77</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE063 - 15g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>4.1</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE073 - 5g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>4.94</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE074 - 15g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>4.41</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE055 - 15g</ItemCode>
+					<Quantity>6</Quantity>
+					<UnitPrice>5.46</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE093 - 5g</ItemCode>
+					<Quantity>3</Quantity>
+					<UnitPrice>8.61</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE138 - 15g</ItemCode>
+					<Quantity>6</Quantity>
+					<UnitPrice>4.94</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+				<row>
+					<ItemCode>FLE096 - 15g</ItemCode>
+					<Quantity>6</Quantity>
+					<UnitPrice>8.51</UnitPrice>
+					<DiscountPercent>25.0000</DiscountPercent>
+				</row>
+			</Document_Lines>
+			</BO>
+		</BOM>
+	</COMMANDE>
+</OB>

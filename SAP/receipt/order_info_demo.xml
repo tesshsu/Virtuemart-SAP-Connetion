@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<OB>
+	<CLIENT>
+		<BOM>
+			<BO>
+			<AdmInfo>
+				<Object>2</Object>
+				<Version>2</Version>
+			</AdmInfo>
+			<BusinessPartners>
+				<row>
+					<CardType>cCustomer</CardType>
+					<CardCode>000000026142INT</CardCode>
+					<CardName>hsu tess</CardName>
+					<GroupCode>100</GroupCode>
+					<Phone1>618628806</Phone1>
+					<Fax/>
+					<Cellular>618628806</Cellular>
+					<EmailAddress>info@vacha-design.com</EmailAddress>
+					<FederalTaxID>FR00000000000</FederalTaxID>
+					<LanguageCode>3</LanguageCode>
+					<U_OB1TYPETOTAL>HT</U_OB1TYPETOTAL>
+					<VatLiable>vExempted</VatLiable>
+					<VatGroup>C1</VatGroup>
+					<ContactPerson>hsu</ContactPerson>
+				</row>
+			</BusinessPartners>
+			<ContactEmployees>
+				<row>
+					<Name>hsu</Name>
+					<FirstName>tess</FirstName>
+					<Phone1>652321402</Phone1>
+					<Fax/>
+					<MobilePhone/>
+					<E_Mail>info@vacha-design.com</E_Mail>
+				</row>
+			</ContactEmployees>
+			<BPAddresses>
+				<row>
+					<AddressType>bo_ShipTo</AddressType>
+					<AddressName>Hsu Tess</AddressName>
+					<Street>9 Rue de menu</Street>
+					<Block/>
+					<ZipCode>44000</ZipCode>
+					<City>New York</City>
+					<State>ALA</State>
+					<Country>US</Country>
+				</row>
+				<row>
+					<AddressType>bo_BillTo</AddressType>
+					<AddressName>Hsu Tess</AddressName>
+					<Street>9 Rue de menu</Street>
+					<Block/>
+					<ZipCode>02657</ZipCode>
+					<City>New York</City>
+					<State>ALA</State>
+					<Country>US</Country>
+				</row>
+			</BPAddresses>
+			</BO>
+		</BOM>
+	</CLIENT>
+	<COMMANDE>
+		<BOM>
+			<BO>
+			<AdmInfo>
+				<Object>17</Object>
+				<Version>2</Version>
+			</AdmInfo>
+			<Documents>
+				<row>
+					<DocType>dDocument_Items</DocType>
+					<DocDate>20170601</DocDate>
+					<DocDueDate>20170601</DocDueDate>
+					<CardCode>000000026142INT</CardCode>
+					<NumAtCard>26690</NumAtCard>
+					<ShipToCode>Hsu Tess</ShipToCode>
+					<PayToCode>Hsu Tess</PayToCode>
+					<U_OB1CODELANGUE>3</U_OB1CODELANGUE>
+					<U_OB1TYPETOTAL>HT</U_OB1TYPETOTAL>
+				</row>
+			</Documents>
+			<Document_Lines>
+				<row>
+					<ItemCode>FLJ133 - 2g</ItemCode>
+					<Quantity>1</Quantity>
+					<UnitPrice>35.43</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLP015 - 10g</ItemCode>
+					<Quantity>6</Quantity>
+					<UnitPrice>6.08</UnitPrice>
+				</row>
+				<row>
+					<ItemCode>FLE143 - 15g</ItemCode>
+					<Quantity>10</Quantity>
+					<UnitPrice>11.71</UnitPrice>
+				</row>
+			</Document_Lines>
+			</BO>
+		</BOM>
+	</COMMANDE>
+</OB>
